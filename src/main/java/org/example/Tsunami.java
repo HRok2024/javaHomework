@@ -19,7 +19,7 @@ public class Tsunami {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException, ParseException {
-        StringBuilder urlString = new StringBuilder("ㅁㄹㅁㄹ");
+        StringBuilder urlString = new StringBuilder("ㅁㄹㅁㄹㅁㄹ");
         urlString.append("?" + "serviceKey" + "ㅁㄹ");
         urlString.append("&" + "pageNo=1");
         urlString.append("&" + "numOfRows=670");
